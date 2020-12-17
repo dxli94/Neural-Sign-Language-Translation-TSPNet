@@ -1,4 +1,4 @@
-## Welcome to TSPNet Homepage
+## Neural Sign Language Translation - TSPNet
 
 
 Introduction
@@ -9,7 +9,7 @@ In this paper, we explore the temporal semantic structures of signvideos to lear
 
 Experiments show that our TSPNet outperforms the state-of-the-art with significant improvements on the BLEU score (from 9.58 to 13.41) and ROUGE score (from 31.80 to 34.96)on the largest commonly-used SLT dataset.
 
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/-EAmcFrrRGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="749" height="421" src="https://www.youtube.com/embed/-EAmcFrrRGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [[Paper](https://proceedings.neurips.cc//paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)] [[Poster](poster/main.pdf)] [[Code](https://github.com/verashira/TSPNet)] [[Video](https://www.youtube.com/watch?v=-EAmcFrrRGk)]
 
