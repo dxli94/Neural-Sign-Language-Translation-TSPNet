@@ -1,5 +1,17 @@
-## Welcome to TSPNet Homepage
+## Neural Sign Language Translation - TSPNet
 
+**[TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation](https://proceedings.neurips.cc//paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)**
+
+
+[[Paper](https://proceedings.neurips.cc//paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)] [[Poster](poster/main.pdf)] [[Code](https://github.com/verashira/TSPNet)] [[Video](https://www.youtube.com/watch?v=-EAmcFrrRGk)]
+
+By [Dongxu Li](https://scholar.google.com.au/citations?user=h5XtaUUAAAAJ&hl=en&oi=ao)&ast;, [Chenchen Xu](https://scholar.google.com.au/citations?user=01_mhZcAAAAJ&hl=en)&ast;,  [Xin Yu](https://scholar.google.com.au/citations?user=oxdtuSEAAAAJ&hl=en), [Kaihao Zhang](https://scholar.google.com.au/citations?user=eqwDXdMAAAAJ&hl=en), [Benjamin Swift](https://scholar.google.com.au/citations?user=OQdYgLEAAAAJ&hl=en), [Hanna Suominen](https://scholar.google.com.au/citations?user=o4qymo4AAAAJ&hl=en) and [Hongdong Li](https://scholar.google.com.au/citations?user=Mq89JAcAAAAJ&hl=en)
+
+(&ast; Authors contributed equally.)
+
+<img src='figs/teaser.png'>
+
+<iframe width="749" height="421" src="https://www.youtube.com/embed/-EAmcFrrRGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Introduction
 ---------------
@@ -9,9 +21,6 @@ In this paper, we explore the temporal semantic structures of signvideos to lear
 
 Experiments show that our TSPNet outperforms the state-of-the-art with significant improvements on the BLEU score (from 9.58 to 13.41) and ROUGE score (from 31.80 to 34.96)on the largest commonly-used SLT dataset.
 
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/-EAmcFrrRGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[[Paper](https://proceedings.neurips.cc//paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)] [[Poster](poster/main.pdf)] [[Code](https://github.com/verashira/TSPNet)] [[Video](https://www.youtube.com/watch?v=-EAmcFrrRGk)]
 
 News
 ---------------
